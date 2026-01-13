@@ -22,12 +22,12 @@
 </div>
 
 <br><br> <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px"/></a>
+<br><br>
 
 ## Навики:
 
 - Знания математической статистики и теории вероятностей
 - A/B-тестирование
 - Регрессионный анализ
-- Библиотеки: pandas, seaborn, sklearn
 
 
