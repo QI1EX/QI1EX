@@ -16,9 +16,10 @@
 ## Инструментарий:
 
 <div>
-  <a href='https://www.python.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/4a1ac0d0-ed96-4fe4-9158-2543f71e0b42' alt='python' height="39px"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/36301c5b-af61-4239-bde7-0334e3e49d6c" alt="figma" height="42px"/></a>
-  <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru/" target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/9b89793d-8866-42ec-845a-313f2d52d606" alt="figma" height="39px"/></a>
+  <a href='https://www.python.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/4a1ac0d0-ed96-4fe4-9158-2543f71e0b42' alt='python' height="39px"/></a>
+  <a href='https://www.postgresql.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/954b0c20-7f58-45c6-8e03-1f0da19a5562' alt='PostgreSQL' height="39px"/> </a>
+  <a href='https://jupyter.org/' target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/36301c5b-af61-4239-bde7-0334e3e49d6c" alt="figma" height="42px"/></a>
+  <a href='https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru/' target="_blank"> <img align="left" src='https://github.com/user-attachments/assets/9b89793d-8866-42ec-845a-313f2d52d606' alt="excel" height="39px"/></a>
 </div>
 <br><br>
 <!-- <br><br>
@@ -27,8 +28,16 @@
 
 ## Навыки:
 
-- Знания математической статистики и теории вероятностей
-- A/B-тестирование
-- Регрессионный анализ
+- Python (numpy, pandas, matplotlib.pyplot, seaborn, sklearn, scipy)
+- PostgreSQL (Основы, CTE (Common Table Expressions), Window Functions, JOINs (INNER, LEFT, RIGHT, FULL), Aggregations, Subqueries)
+- Знания математической статистики и теории вероятностей, математики для анализа данных
+- A/B-тестирование, основные продуктовые метрики
+- Основы машинного обучения
+  - Регрессия
+  - Классификация
+  - Кластеризация (Метод K-средних, DBSCAN, Иерархическая)
+  - Градиентные методы: GD, SGD
+  - Метод главных компонент (PCA)
 
+_+ Плюсом имеется опыт работы с Git_
 
