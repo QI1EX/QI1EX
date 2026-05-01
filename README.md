@@ -22,9 +22,6 @@
   <a href='https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru/' target="_blank"> <img align="left" src='https://github.com/user-attachments/assets/9b89793d-8866-42ec-845a-313f2d52d606' alt="excel" height="39px"/></a>
 </div>
 <br><br>
-<!-- <br><br>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px"/></a>
-<br><br> -->
 
 ## Навыки:
 
