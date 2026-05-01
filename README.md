@@ -29,7 +29,7 @@
 ## Навыки:
 
 - Python (numpy, pandas, matplotlib.pyplot, seaborn, sklearn, scipy)
-- PostgreSQL (Основы, CTE (Common Table Expressions), Window Functions, JOINs (INNER, LEFT, RIGHT, FULL), Aggregations, Subqueries)
+- PostgreSQL (Подзапросы, Табличные выражение (CTE), Оконные функции, JOINs (INNER, LEFT, RIGHT, FULL), Основы: фильтрация, агрегация, сортировка и пр.)
 - Знания математической статистики и теории вероятностей, математики для анализа данных
 - A/B-тестирование, основные продуктовые метрики
 - Основы машинного обучения
