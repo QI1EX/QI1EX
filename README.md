@@ -5,28 +5,32 @@
 </picture>
 
 ## Обо мне:
-Муравьев Андрей, 20 лет, Аналитик данных с фундаментальной математической подготовкой и стремлением к решению сложных инженерных и аналитических задач. Специализируюсь на машинном обучении для оптимизации бизнес-процессов.
+Муравьев Андрей, 20 лет, Аналитик данных с фундаментальной математической подготовкой и стремлением к решению сложных аналитических задач. Специализируюсь на машинном обучении для оптимизации бизнес-процессов.
 
 ## Образование:
 
 - Студент 3 курса <code>СПБГЭУ</code>
 - Направление <code>Математическое моделирование и анализ данных в экономике</code>
 - Специальность <code>Аналитик данных</code>
+- Средний бал <code>4,76</code>
 
 ## Инструментарий:
 
 <div>
   <a href='https://www.python.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/4a1ac0d0-ed96-4fe4-9158-2543f71e0b42' alt='python' height="39px"/></a>
-  <a href='https://www.postgresql.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/954b0c20-7f58-45c6-8e03-1f0da19a5562' alt='PostgreSQL' height="39px"/> </a>
-  <a href='https://jupyter.org/' target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/36301c5b-af61-4239-bde7-0334e3e49d6c" alt="figma" height="42px"/></a>
   <a href='https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru/' target="_blank"> <img align="left" src='https://github.com/user-attachments/assets/9b89793d-8866-42ec-845a-313f2d52d606' alt="excel" height="39px"/></a>
+  <a href='https://www.postgresql.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/954b0c20-7f58-45c6-8e03-1f0da19a5562' alt='PostgreSQL' height="39px"/> </a>
+   <a href='https://git-scm.com/' target="_blank"> <img align="left" src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg' alt="excel" height="39px"/></a>
+  <a href='https://jupyter.org/' target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/36301c5b-af61-4239-bde7-0334e3e49d6c" alt="figma" height="42px"/></a>
 </div>
 <br><br>
 
 ## Навыки:
 
-- Python работаю с библиотеками: numpy, pandas, matplotlib.pyplot, seaborn, sklearn, scipy
-- PostgreSQL:
+- Python:
+  - Основы языка
+  - Работаю с библиотеками: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, PyTorchк
+- SQL (PostgreSQL):
   - Умею писать: Подзапросы, Табличные выражение (CTE), Оконные функции
   - Выполнять объединение данных, фильтрацию, агрегацию, сортировку и пр.
 - Знаю математику для анализа данных и фундаментальные математические дисциплины:
@@ -35,12 +39,21 @@
   - Теория вероятностей
   - Методы оптимальных решений
   - Математическая статистика 
-- Проводил AB-тестирование, проверку гипотез на продуктовых метриках (ARPU, ARPPU, AOV и пр.)
+- Продуктовая аналитика
+  - Провожу AB-тесты
+  - Проверяю гипотезы на продуктовых метриках (ARPU, ARPPU, AOV и пр.)
 - Знаю основы машинного обучения:
-  - Обучал модели регрессии и классификации
+  - Обучал модели регрессии и классификации с помощью линейных, метрическхи и логических методов
   - Кластеризировал данные (Методом K-средних, DBSCAN, Иерархическую)
   - Реализовывал методы градиентного спуска (GD, SGD)
-  - Применял метод главных компонент (PCA)
+  - Решал задачи обучения без учителя (PCA)
+- Визуализация
+  - Использую библиотеки: Matplotlib.pyplot, Seaborn
+  - Инструменты визуализации и BI-аналитики: Yandex DataLens
+- Программы Microsoft Office
+  - Excel
+  - Word
+  - PowerPoint
 
 _+ Работаю над проектами в Git_ <br>
 _+ Участвую в кейс-чемпионатах_
