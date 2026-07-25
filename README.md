@@ -18,10 +18,12 @@
 
 <div>
   <a href='https://www.python.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/4a1ac0d0-ed96-4fe4-9158-2543f71e0b42' alt='python' height="39px"/></a>
+  <a href='https://code.visualstudio.com/' target='_blank'> <img align="left" src='https://code.visualstudio.com/assets/branding/code-stable.png' alt='python' height="39px"/></a>
   <a href='https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru/' target="_blank"> <img align="left" src='https://github.com/user-attachments/assets/9b89793d-8866-42ec-845a-313f2d52d606' alt="excel" height="39px"/></a>
   <a href='https://www.postgresql.org/' target='_blank'> <img align="left" src='https://github.com/user-attachments/assets/954b0c20-7f58-45c6-8e03-1f0da19a5562' alt='PostgreSQL' height="39px"/> </a>
    <a href='https://git-scm.com/' target="_blank"> <img align="left" src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg' alt="excel" height="39px"/></a>
   <a href='https://jupyter.org/' target="_blank"> <img align="left" src="https://github.com/user-attachments/assets/36301c5b-af61-4239-bde7-0334e3e49d6c" alt="figma" height="42px"/></a>
+  <a href='https://colab.research.google.com/' target="_blank"> <img align="left" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/colab-color.png" alt="figma" height="42px"/></a>
 </div>
 <br><br>
 
